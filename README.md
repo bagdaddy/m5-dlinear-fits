@@ -6,3 +6,5 @@
 - benchmarks - benchmark model forecasts 
 - Evaluation - R code for estimating accuracy from forecast "submission"
   - submission_evaluation - has R code for estimating weights for each item, as well as all submissions with different hyperparameters of DLinear and FITS in *DLinear_eval* and *FITS_eval* 
+- preprocessing-v1 - preprocessing done in the first part, resulted in 3 .pkl files of competition data
+- data-preprocessing-v2 - Only kept the required data for analysis
